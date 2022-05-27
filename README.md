@@ -1,6 +1,9 @@
-# World_Weather_Analysis
+# World Weather Analysis
 
-## Project Plan: 
-- Task: Collect and analyze weather data across cities worldwide.
-- Purpose: PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
-- Method: Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
+## Project Overview
+Adding changes to the PlanMyTrip app to help take the app to the next level. We added weather description, use user input statements to filter travel results. From the list the user generates, we can create them a travel itinerary. 
+
+Resources
+Data Source: WeatherPy_Database.csv, WeatherPy_vacation.csv
+Software: Jupyter, Python 3.6.1, pandas data analysis tool, conda 4.12.0
+
